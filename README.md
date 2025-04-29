@@ -1,9 +1,24 @@
 # mini-projects
 
-Some of my mini projects I have deployed over the years.
+Some of my mini projects I have developed over the years.
 
-[Lucid](https://lucid-landing-nine.vercel.app/): A Chrome Extension that helps you focus while browsing.
 
-[Wordentifier](https://chromewebstore.google.com/detail/wordentifier-improve-your/jhjhjkoadlkanedlnhnhlihpmjbmnine): A Chrome Extension that helps you memorize vocabulary while browsing.
+## Chrome Extensions
+
+[Lucid](https://lucid-landing-nine.vercel.app/): Helps you focus while browsing.
+
+[Wordentifier](https://chromewebstore.google.com/detail/wordentifier-improve-your/jhjhjkoadlkanedlnhnhlihpmjbmnine): Helps you memorize vocabulary while browsing.
+
+
+## Web Applications
+
+[Bearwear](https://github.com/Chanbinski/bearwear): Helps you organize your clothing online.
+
+[Odysseus](https://github.com/Chanbinski/odysseus): Helps you connect different concepts and generate ideas.
+
+
+## Mobile Applications
+
+[Girin](https://github.com/Chanbinski/Girin): Helps you organize your reading logs.
 
 
